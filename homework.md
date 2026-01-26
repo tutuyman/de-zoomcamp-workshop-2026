@@ -1,5 +1,5 @@
 # Question 1
-pip --version
+pip --version  
 What i got is 25.03, maybe some older image use 24.3
 
 # Question 2
@@ -38,7 +38,7 @@ ORDER BY longest_trip_distance DESC
 LIMIT 1;
 ```
 
-Return output is
+Return output is  
 2025-11-14  |   88.03
 
 # Question 5
@@ -56,7 +56,7 @@ GROUP BY z."Zone"
 ORDER BY total_revenue DESC
 LIMIT 1;
 ```
-Return output is
+Return output is  
 East Harlem North   |   9281.920000000002
 
 # Question 6
@@ -77,12 +77,13 @@ ORDER BY largest_tip DESC
 LIMIT 10;
 ```
 
-Largest tip
+Largest tip  
 dropoff_zone        largest tip
 Yorkville West      81.89
 
 # Question 7
 terraform init, terraform apply -auto-approve, terraform destroy
 
-all show in video, but markdown and course question abit difference, in markdown contain "auto-executing the plan".
-but i follow the course
+all show in video, but markdown and course question abit difference, in markdown contain "auto-executing the plan".  
+but the answer has no option terraform init, terraform apply -y, terraform destroy  
+so terraform init, terraform apply -auto-approve, terraform destroy 
