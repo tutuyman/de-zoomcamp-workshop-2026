@@ -84,6 +84,6 @@ Yorkville West      81.89
 # Question 7
 terraform init, terraform apply -auto-approve, terraform destroy
 
-all show in video, but markdown and course question abit difference, in markdown contain "auto-executing the plan".  
-but the answer has no option terraform init, terraform apply -y, terraform destroy  
-so terraform init, terraform apply -auto-approve, terraform destroy 
+all show in video, but markdown and course question abit difference, in markdown contain "auto-executing the plan" while in web course doesnt have.   
+if following markdown terraform init, terraform apply -auto-approve, terraform destroy is best option  
+if following web course the answer terraform init, terraform apply -y, terraform destroy  
