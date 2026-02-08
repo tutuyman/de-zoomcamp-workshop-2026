@@ -31,9 +31,9 @@ i got return of 24648219, close enough
 Refer to example 08 and 09  
 In trigger section add
 triggers:
-  - id: schedule
-    type: io.kestra.plugin.core.trigger.Schedule
-    cron: "0 9 1 * *"
+  - id: schedule  
+    type: io.kestra.plugin.core.trigger.Schedule  
+    cron: "0 9 1 * *"  
     timezone: America/New_York <-- Add this
 
 
