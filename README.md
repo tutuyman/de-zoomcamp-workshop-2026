@@ -1,5 +1,5 @@
 # docker-workshop
-Follow instruction from [data-engineering-zoomcamp:01-docker-terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform)
+Replicate based on [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
-Mostly follow the video demo cause theres abit difference between markdown and video
+Do similar to demo video and notes with a bit change of variables
 
