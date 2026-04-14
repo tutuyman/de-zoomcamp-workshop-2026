@@ -260,3 +260,15 @@ terraform.rc
 .env_encoded
 .vscode/
 .base64
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+
+# DuckDB UI artifact
+127.0.0.1
+
+# Python
+.venv/
+__pycache__/

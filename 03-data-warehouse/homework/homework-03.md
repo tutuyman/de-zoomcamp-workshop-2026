@@ -9,7 +9,7 @@ the output should 20332093
 ### Do this query but the result is not the focus
 SELECT COUNT(DISTINCT PULocationID) AS distinct_pu_locations
 FROM `zoomcamp.yellow_taxi_external`;  
-
+the query process estimated(The External Table) should be 0B and when run The Materialized/Native Table is Bytes processed 155.12 MB, Bytes billed 156 MB
 
 ## Question 4
 SELECT COUNT(*) AS zero_fare_trips
