@@ -265,6 +265,7 @@ terraform.rc
 *.duckdb
 *.duckdb.wal
 *.duckdb.tmp
+*.db
 
 # DuckDB UI artifact
 127.0.0.1
@@ -272,3 +273,8 @@ terraform.rc
 # Python
 .venv/
 __pycache__/
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
+logs/queries
